@@ -11,7 +11,7 @@ class ProvincialData{
 		System.out.println("Please use the following guides");
 		System.out.println("");
 		
-		System.out.println("Western Provinc        : 1");
+		System.out.println("Western Province        : 1");
 		System.out.println("Central Province        : 2 ");
 		System.out.println("Northern Province       : 3 ");
 		System.out.println("Southern Province       : 4 ");
